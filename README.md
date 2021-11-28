@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub followers](https://img.shields.io/github/followers/newkanekibot?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/newkanekibot?affiliations=OWNER&color=aqua&style=for-the-badge)
 
-
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=newkanekibot&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/newkanekibot)
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=newkanekibot)
